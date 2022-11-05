@@ -8,7 +8,7 @@ This course is well-organized with high-quality content.
 
 ### 10. Unit Testing in Spring
 
-- Lesson 5: [Stubbing and Mocking]()
+- Lesson 5: [Stubbing and Mocking](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-8-2/blob/master/lesson5.md)
 - Lesson 6: [Mockito Annotations]()
 
 ## Other Parts
